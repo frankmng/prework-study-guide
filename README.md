@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project is to lay the foundation of the use of HTML, CSS, GIT, and Javascript in a interactive way to learn these concepts and to be used for taking notes.
+The purpose of this project is to lay the foundation of the use of HTML, CSS, GIT, and Javascript in a interactive way for new students to learn these concepts and to be used for taking notes.
 
 ## Installation
 
